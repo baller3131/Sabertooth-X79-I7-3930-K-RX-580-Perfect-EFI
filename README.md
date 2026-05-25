@@ -1,6 +1,6 @@
 # Sabertooth-X79-I7-3930-K-RX-580-Perfect-EFI-HACKINTOSH
 
-So i wanna publish my Efi if you have an Sabertooth X79 I7 3930-K RX 580 2304SP.
+So i wanna publish my Efi if you have an Sabertooth X79 I7 3930-K RX 580 2304SP. Opencore Version
 
 # Why 2304SP?
 Because it has a REAL RX 580.
