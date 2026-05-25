@@ -4,3 +4,4 @@ Why 2304SP? Because it has a REAL RX 580.
 If you have an RX 580 2048SP. you have to do spoof type stuff.
 What native macOS works? Use Monterey if you want full native use. But if you want to use like Sequoia, you have to use OCLP Root Patch.
 # TAHOE DOES NOT WORK!
+Why? Because Cpu DOESNT HAVE AVX2
