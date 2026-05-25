@@ -9,7 +9,7 @@ If you have an RX 580 2048SP. you have to do spoof type stuff.
 
 # What native macOS works?
 
-Use Monterey if you want full native use. But if you want to use like Sequoia, you have to use OCLP Root Patch.
+Use Monterey if you want full native use. But if you want to use modern macOS like Sequoia 15, you have to use OCLP to Root Patch.
 
 # TAHOE DOES NOT WORK!
 
