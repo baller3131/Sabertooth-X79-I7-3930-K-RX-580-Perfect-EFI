@@ -9,6 +9,8 @@ If you have an RX 580 2048SP. you have to do spoof type stuff.
 
 # Sata SSD Mustly NEEDED!
 
+M.2 NVME SSD is not even supported for Sabertooth X79 but you could make it work. still SATA SSD NEEDED, Or you could get some issues.
+
 # What native macOS works?
 
 Use Monterey if you want full native use. But if you want to use modern macOS like Sequoia 15, you have to use OCLP to Root Patch.
